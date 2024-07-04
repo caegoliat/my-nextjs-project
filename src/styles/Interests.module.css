@@ -1,0 +1,16 @@
+.interests {
+    font-family: Arial, sans-serif;
+    background-color: #d19d0fb9;
+    padding: 20px;
+    border-radius: 15px;
+  }
+  .interests ul {
+    font-family: Arial, sans-serif;
+    list-style-type: none;
+    padding: 0;
+  }
+  .interests li {
+    font-family: Arial, sans-serif;
+    margin: 5px 0;
+  }
+  

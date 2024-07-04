@@ -1,0 +1,37 @@
+.contactForm {
+    font-family: Arial, sans-serif;
+    background-color: #d19d0fcc;
+    padding: 20px;
+    border-radius: 15px;
+  }
+  .formGroup {
+    margin-bottom: 10px;
+  }
+  .formGroup label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  .formGroup input,
+  .formGroup textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+  }
+  .submitButton {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .submitButton:hover {
+    background-color: #45a049;
+  }
+  .error {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+  }
+  
